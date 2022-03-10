@@ -32,6 +32,9 @@ Graphics:
 - Apple : Created using Microsoft Paint and Adobe Photoshop
 - Grass background : by txturs from https://opengameart.org/content/grass-pixel-art
 
+Project ppt:
+https://www.canva.com/design/DAEGzd9tq6o/sXHAn9wBiFKQsj5CO9_eOA/view?utm_content=DAEGzd9tq6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Sounds:
 - Eating sound: from https://github.com/eugeneloza/SnakeGame
 - Game end sound: from cs50 mario Game Track library
